@@ -1,0 +1,25 @@
+{
+  "name": "social-icons",
+  "description": "SVG icon font of social web services",
+  "version": "0.1.5",
+  "keywords": [
+    "social",
+    "icon",
+    "font",
+    "svg"
+  ],
+  "homepage": "https://github.com/donReach/social-icons",
+  "authors": [
+    "Adam Bouqdib <adam@abemedia.co.uk>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donReach/social-icons.git"
+  },
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "**/*.json",
+    "node_modules"
+  ]
+}

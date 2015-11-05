@@ -1,0 +1,29 @@
+{
+  "name": "social-icons",
+  "description": "SVG icon font of social web services",
+  "version": "0.1.5",
+  "keywords": [
+    "social", 
+    "icon", 
+    "font", 
+    "svg"
+  ],
+  "homepage": "https://github.com/donReach/social-icons",
+  "bugs": {
+    "url" : "https://github.com/donReach/social-icons/issues"
+  },
+  "author": {
+    "name": "Adam Bouqdib",
+    "email": "adam@abemedia.co.uk",
+    "web": "http://abemedia.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donReach/social-icons.git"
+  },
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^1.0.0"
+  }
+}
