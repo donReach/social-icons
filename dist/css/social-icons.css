@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"social-icons";
-	src:url("../fonts/social-icons.eot?4a8ebaa2ff423ededc572004162ba218");
+	src:url("../fonts/social-icons.eot?a9906cca71836e9b783354a8955b3d16");
 	src:url("../fonts/social-icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/social-icons.woff?4a8ebaa2ff423ededc572004162ba218") format("woff"),
-		url("../fonts/social-icons.ttf?4a8ebaa2ff423ededc572004162ba218") format("truetype");
+		url("../fonts/social-icons.woff?a9906cca71836e9b783354a8955b3d16") format("woff"),
+		url("../fonts/social-icons.ttf?a9906cca71836e9b783354a8955b3d16") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -45,154 +45,210 @@
 	content:"\f102";
 }
 
-.si-facebook {
+.si-dribbble {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf103;');
 }
 
-.si-facebook:before {
+.si-dribbble:before {
 	content:"\f103";
 }
 
-.si-fancy {
+.si-facebook {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf104;');
 }
 
-.si-fancy:before {
+.si-facebook:before {
 	content:"\f104";
 }
 
-.si-google {
+.si-fancy {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf105;');
 }
 
-.si-google:before {
+.si-fancy:before {
 	content:"\f105";
 }
 
-.si-hackernews {
+.si-forrst {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf106;');
 }
 
-.si-hackernews:before {
+.si-forrst:before {
 	content:"\f106";
 }
 
-.si-hatena {
+.si-github {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf107;');
 }
 
-.si-hatena:before {
+.si-github:before {
 	content:"\f107";
 }
 
-.si-linkedin {
+.si-google {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf108;');
 }
 
-.si-linkedin:before {
+.si-google:before {
 	content:"\f108";
 }
 
-.si-mailru {
+.si-hackernews {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf109;');
 }
 
-.si-mailru:before {
+.si-hackernews:before {
 	content:"\f109";
 }
 
-.si-odnoklassniki {
+.si-hatena {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10a;');
 }
 
-.si-odnoklassniki:before {
+.si-hatena:before {
 	content:"\f10a";
 }
 
-.si-pinterest {
+.si-instagram {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10b;');
 }
 
-.si-pinterest:before {
+.si-instagram:before {
 	content:"\f10b";
 }
 
-.si-pocket {
+.si-linkedin {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10c;');
 }
 
-.si-pocket:before {
+.si-linkedin:before {
 	content:"\f10c";
 }
 
-.si-reddit {
+.si-mailru {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10d;');
 }
 
-.si-reddit:before {
+.si-mailru:before {
 	content:"\f10d";
 }
 
-.si-scoopit {
+.si-odnoklassniki {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10e;');
 }
 
-.si-scoopit:before {
+.si-odnoklassniki:before {
 	content:"\f10e";
 }
 
-.si-sina {
+.si-pinterest {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf10f;');
 }
 
-.si-sina:before {
+.si-pinterest:before {
 	content:"\f10f";
 }
 
-.si-stumbleupon {
+.si-pocket {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf110;');
 }
 
-.si-stumbleupon:before {
+.si-pocket:before {
 	content:"\f110";
 }
 
-.si-tumblr {
+.si-reddit {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf111;');
 }
 
-.si-tumblr:before {
+.si-reddit:before {
 	content:"\f111";
 }
 
-.si-twitter {
+.si-scoopit {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf112;');
 }
 
-.si-twitter:before {
+.si-scoopit:before {
 	content:"\f112";
 }
 
-.si-vk {
+.si-sina {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf113;');
 }
 
-.si-vk:before {
+.si-sina:before {
 	content:"\f113";
 }
 
-.si-xing {
+.si-soundcloud {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf114;');
 }
 
-.si-xing:before {
+.si-soundcloud:before {
 	content:"\f114";
 }
 
-.si-yummly {
+.si-stumbleupon {
 	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf115;');
 }
 
-.si-yummly:before {
+.si-stumbleupon:before {
 	content:"\f115";
+}
+
+.si-tumblr {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf116;');
+}
+
+.si-tumblr:before {
+	content:"\f116";
+}
+
+.si-twitch {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf117;');
+}
+
+.si-twitch:before {
+	content:"\f117";
+}
+
+.si-twitter {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf118;');
+}
+
+.si-twitter:before {
+	content:"\f118";
+}
+
+.si-vk {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf119;');
+}
+
+.si-vk:before {
+	content:"\f119";
+}
+
+.si-xing {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf11a;');
+}
+
+.si-xing:before {
+	content:"\f11a";
+}
+
+.si-youtube {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf11b;');
+}
+
+.si-youtube:before {
+	content:"\f11b";
+}
+
+.si-yummly {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf11c;');
+}
+
+.si-yummly:before {
+	content:"\f11c";
 }
